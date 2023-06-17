@@ -1,0 +1,5 @@
+//custom variables
+$primary: #C29938;
+$light: #6f42c1;
+// import bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
